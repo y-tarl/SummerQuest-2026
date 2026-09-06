@@ -5,7 +5,8 @@
 ## GitHub 与 PR
 
 - 分支：`a0/y-tarl`
-- Git 操作总结：已完成课程仓库 Fork，将个人 Fork 配置为 `origin`，OpenMOSS 课程仓库配置为 `upstream`，并基于最新主分支创建本次作业分支。后续使用 Conventional Commits 提交并 push 到个人 Fork，再向上游 `main` 创建 Pull Request。
+- Git 操作总结：已完成课程仓库 Fork，将个人 Fork 配置为 `origin`，OpenMOSS 课程仓库配置为 `upstream`，并基于最新主分支创建本次作业分支。已使用 Conventional Commits 提交并 push 到个人 Fork，再向上游 `main` 创建 Pull Request。
+- Pull Request：[PR #173](https://github.com/OpenMOSS/SummerQuest-2026/pull/173)
 
 ## Linux 环境摘要
 
