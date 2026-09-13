@@ -6,20 +6,15 @@
 
 - 分支：`a0/y-tarl`
 - Git 操作总结：已完成课程仓库 Fork，将个人 Fork 配置为 `origin`，OpenMOSS 课程仓库配置为 `upstream`，并基于最新主分支创建本次作业分支。已使用 Conventional Commits 提交并 push 到个人 Fork，再向上游 `main` 创建 Pull Request。
-- Pull Request：[PR #173](https://github.com/OpenMOSS/SummerQuest-2026/pull/173)
 
 ## Linux 环境摘要
 
 - 操作系统：Linux 5.15.0-119-generic x86_64
-- CPU：112 logical processors
-- 内存：约 503 GiB；Swap 未启用
 - Python：3.12.3
 - Virtual environment：已创建
 - Python 依赖管理：`gpustat 1.1.1` 安装在用户级 virtual environment 中，未使用 `sudo pip`
 - 模拟密钥文件权限：600
 - 常驻进程方式：`tmux` 可用
-
-不要填写用户名、主机名、IP、内部路径、SSH 配置或完整进程参数。
 
 ## GPU 状态检查
 
